@@ -66,7 +66,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Particle Flow and Energy Absorption](https://www.youtube.com/watch?v=zcaA8JvOSEM)
 - [Custom Interactive 3D Particle System](https://www.youtube.com/watch?v=NuIShUTg3nI)
 - [Sketchy Toon Shader](https://www.youtube.com/watch?v=VDBja6o8yvs)
-- [Trace and Blob Tracking Effect](https://www.youtube.com/watch?v=ioSVh06MySc)
+- [Trace and Blob Tracking Effect](https://www.youtube.com/watch?v=qH94dipCJiw)
 - [Audio-Reactive Psychedelic Visuals](https://www.youtube.com/watch?v=Mt2hwb5cngA)
 - [Particle Attractors](https://youtube.com/watch?v=dzYyrvyY-zc&si=8aLXxedJflzaQfDQ)
 - [Make Anything Audio Reactive](https://www.youtube.com/watch?v=rGoCbVmGtPE)
@@ -79,6 +79,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [TouchDesigner Official](https://www.youtube.com/@TouchDesignerOfficial)
 - [Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ)
 - [exsstas](https://www.youtube.com/@exsstas)
+- [DeanCheesman](https://www.youtube.com/@DeanCheesman)
 
 ### Playlists & Courses
 - [Official Tutorials Playlist](https://www.youtube.com/playlist?list=PLzmoq9o8x48F3QEy2VGrakgP2p8gP4pqa)
@@ -88,6 +89,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [TouchDesigner Beginner Course](https://www.youtube.com/playlist?list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
 - [The 100 Series: TouchDesigner Fundamentals](https://learn.derivative.ca/courses/100-fundamentals/)
 - [A Deep Dive into the Core Knowledge of TouchDesigner](https://www.udemy.com/course/gem-seed_touchdesigner-course-continuous-course-updates/) *(paid)*
+- [Learning Touchdesigner](https://bookstack.hku.nl/books/touchdesigner/page/learning-touchdesigner)
 
 ## Cheat Sheets & Guides
 - [Common Operations Cheat Sheet](https://matthewragan.com/teaching-resources/touchdesigner/touchdesigner-common-operations-cheat-sheet/)
@@ -113,7 +115,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [Pixel Maps (Artio)](https://github.com/theexperiential/Artio) — Manage and manipulate pixel maps in your projects.
 - [SOP To SVG Converter](https://github.com/raganmd/touchdesigner-sop-to-svg) — Convert SOP data into SVG for vector graphics workflows.
 - [Constraint Simulation Tool](https://derivative.ca/community-post/asset/constraint-simulation-tool/65109) — Simulate dynamic constraints in TouchDesigner.
-- [Blender Add-on for TouchDesigner](https://www.youtube.com/watch?v=yaWD6CPeDRY) - Integrate Blender with TouchDesigner
+- [TD Script - Blender Add-on for TouchDesigner](https://www.youtube.com/watch?v=olRMbGqgxp0) - Integrate Blender with TouchDesigner
 - [MediaPipe](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe
 - [GeoPix](https://github.com/EnviralDesign/GeoPix) - GeoPix is a free and open source real-time lighting control and previz software.
 - [TouchDiffusion](https://github.com/olegchomp/TouchDiffusion) - Real-time Stable Diffusion interactive generation with StreamDiffusion
@@ -229,6 +231,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [Weidi Zang](https://www.instagram.com/w.e.i.d.i/)
 - [Pieter Sistrom](https://www.instagram.com/archo_p/?hl=fr)
 - [Simon AA](https://www.simonaa.media/)
+- [Okamirufu](https://www.patreon.com/Okamirufu)
 
 ---
 
