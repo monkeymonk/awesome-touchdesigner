@@ -74,6 +74,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [What is Generative Art: TouchDesigner’s Role in Art, Algorithms, and Creative Systems Explained](https://www.youtube.com/watch?v=1RD83NjwNIk)
 - [Video to ParticlesGPU](https://www.youtube.com/watch?v=hrxn_ouFyV0)
 - [Simon Alexander Adams's Tutorials](https://www.simonaa.media/tutorials-articles)
+- [Working with Midi](https://www.youtube.com/watch?v=XLeghJmFBh0)
 
 ### YouTube Channels
 - [TouchDesigner Official](https://www.youtube.com/@TouchDesignerOfficial)
@@ -81,6 +82,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [exsstas](https://www.youtube.com/@exsstas)
 - [DeanCheesman](https://www.youtube.com/@DeanCheesman)
 - [Acrylicode](https://www.youtube.com/@acrylicode)
+- [Matthew Ragan](https://www.youtube.com/@raganmd)
 
 ### Playlists & Courses
 - [Official Tutorials Playlist](https://www.youtube.com/playlist?list=PLzmoq9o8x48F3QEy2VGrakgP2p8gP4pqa)
