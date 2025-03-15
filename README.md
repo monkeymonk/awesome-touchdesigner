@@ -156,7 +156,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 ### Generative Art
 - [Awesome Generative Art](https://github.com/kosmos/awesome-generative-art)
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
-- [Shader For Absolute Beginners](https://clauswilke.com/art/post/shaders)
+- [Shaders For Absolute Beginners](https://clauswilke.com/art/post/shaders)
 
 ### Audio-Visual Integration
 - [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
@@ -180,7 +180,9 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [TouchDesigner Forum](https://forum.derivative.ca)
 - [r/TouchDesigner on Reddit](https://www.reddit.com/r/TouchDesigner/)
 - [Instagram (@touchdesigner)](https://www.instagram.com/touchdesigner)
+- [TikTok](https://www.tiktok.com/search?q=touchdesigner)
 - [TouchDesigner Slack](https://touchdesigner.slack.com/)
+- [TouchDesigner Discord](https://discord.com/invite/senqbr2)
 
 ### Social Media & Showcases
 - [Facebook Help Group](https://www.facebook.com/groups/touchdesignerhelp/)
