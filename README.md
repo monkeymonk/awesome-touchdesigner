@@ -80,6 +80,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ)
 - [exsstas](https://www.youtube.com/@exsstas)
 - [DeanCheesman](https://www.youtube.com/@DeanCheesman)
+- [Acrylicode](https://www.youtube.com/@acrylicode)
 
 ### Playlists & Courses
 - [Official Tutorials Playlist](https://www.youtube.com/playlist?list=PLzmoq9o8x48F3QEy2VGrakgP2p8gP4pqa)
@@ -124,7 +125,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [touchFluid](https://github.com/kamindustries/touchFluid) - Fluids in TouchDesigner and GLSL
 - [touchfluids](https://github.com/ancillarymagnet/touchfluids) - Newtonian fluids in TouchDesigner
 - [TDComfyUI](https://github.com/olegchomp/TDComfyUI) - TouchDesigner interface for ComfyUI
-- [TOuchEngine-UE](https://github.com/TouchDesigner/TouchEngine-UE) - The TouchEngine-UE plugin allows UE developers to load TouchDesigner components within UE while relying on the TouchEngine API.
+- [TouchEngine-UE](https://github.com/TouchDesigner/TouchEngine-UE) - The TouchEngine-UE plugin allows UE developers to load TouchDesigner components within UE while relying on the TouchEngine API.
 - [Style Transfer](https://github.com/exsstas/StyleTransfer-in-TD) - TensorFlow implementation of Neural Style Transfer in TouchDesigner
 - [TDDiffusionAPI](https://github.com/olegchomp/TDDiffusionAPI) - TouchDesigner interface for AUTOMATIC1111
 - [SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg) - SOP to SVG pipeline
@@ -232,6 +233,8 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [Pieter Sistrom](https://www.instagram.com/archo_p/?hl=fr)
 - [Simon AA](https://www.simonaa.media/)
 - [Okamirufu](https://www.patreon.com/Okamirufu)
+- [Torin Blankensmith](https://www.torinblankensmith.com/)
+- [Glazov AV](https://www.instagram.com/glazov_av)
 
 ---
 
