@@ -75,6 +75,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Video to ParticlesGPU](https://www.youtube.com/watch?v=hrxn_ouFyV0)
 - [Simon Alexander Adams's Tutorials](https://www.simonaa.media/tutorials-articles)
 - [Working with Midi](https://www.youtube.com/watch?v=XLeghJmFBh0)
+- [3D Laser scanning dissipation](https://www.youtube.com/watch?v=Nqg8T4FtbRE)
 
 ### YouTube Channels
 - [TouchDesigner Official](https://www.youtube.com/@TouchDesignerOfficial)
@@ -83,6 +84,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [DeanCheesman](https://www.youtube.com/@DeanCheesman)
 - [Acrylicode](https://www.youtube.com/@acrylicode)
 - [Matthew Ragan](https://www.youtube.com/@raganmd)
+- [Luchen Xi - Alexxi](https://www.youtube.com/@Alexxi-generativeartist)
 
 ### Playlists & Courses
 - [Official Tutorials Playlist](https://www.youtube.com/playlist?list=PLzmoq9o8x48F3QEy2VGrakgP2p8gP4pqa)
@@ -240,6 +242,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [Okamirufu](https://www.patreon.com/Okamirufu)
 - [Torin Blankensmith](https://www.torinblankensmith.com/)
 - [Glazov AV](https://www.instagram.com/glazov_av)
+- [Luchen Xi - Alexxi](https://www.instagram.com/luchen_xi/)
 
 ---
 
