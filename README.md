@@ -106,6 +106,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [TouchDesigner Keyboard Shortcuts](https://matthewragan.com/teaching-resources/touchdesigner/touchdesigner-keyboard-shortcuts/)
 - [SOP Cheat Sheet](https://forum.derivative.ca/t/sop-cheat-sheet-w-pics-wiki-mode/275002)
 - [MIDI Device Beginner Guide](https://interactiveimmersive.io/blog/controlling-touchdesigner/midi-device-beginner-guide/)
+- [VJing tools and resources list](https://l68k.com/things/vjing)
 
 ---
 
