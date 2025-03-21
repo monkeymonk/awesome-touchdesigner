@@ -32,7 +32,8 @@ A curated collection of high-quality TouchDesigner resources for creators, artis
 - [8. Artists & Studios](#8-artists--studios)
   - [Featured Artists](#featured-artists)
   - [Studios](#studios)
-- [9. Contributing & License](#9-contributing--license)
+- [9. Other VJing Software](#9-other-vjing-software)
+- [10. Contributing & License](#10-contributing--license)
 
 ---
 
@@ -251,7 +252,29 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 
 ---
 
-## 9. Contributing & License
+## 9. Other VJing Software
+
+- [vvvv](https://vvvv.org) - A visual live-programming environment that takes you from rapid prototyping to final production.
+- [VJAMM](https://www.vjamm.com/) - A piano for sound and vision, audio visual performance software.
+- [Zwobotmax.com](https://www.zwobotmax.com/) - Play videos and create visuals right inside Ableton Live.
+- [MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
+- [VDMX6](https://www.vidvox.net/) - The ultimate real-time video playground for macOS just got a whole lot more ultimate.
+- [Resolume](https://www.resolume.com/) - Resolume is the industry-leading software for VJ’s around the world.
+- [HeavyM](https://www.heavym.net/vj-software/) - VJ software for projection mapping.
+- [Modul8](https://www.garagecube.com/modul8/) - The pioneering macOS VJ application.
+- [ArkaOS GrandVJ](https://vj.arkaos.com/grandvj/) - VJ software for live video performance.
+- [Synesthesia](https://synesthesia.live/) - The All-in-One Music Visual Solution.
+- [Millumin](https://www.millumin.com/v5/) - Complete solution to create Audiovisual Shows.
+- [Lumen](lumen-app.com) - Video Synthesis On Your Mac.
+- [Quantum VJ HD](https://www.warmplace.ru/soft/qvjhd/) - Simple glitch-style audio visualizer (video generator).
+- [Noisedeck](https://noisedeck.app/) - An approachable, powerful video synth and a must-have for any creator's toolkit.
+- [aNa](https://gitlab.com/metagrowing/ana) - A live coding system for visuals.
+- [GoVJ](https://govjapp.com/) - Allows you to run your live visual mix, straight from your iPhone or iPad.
+- [Magic](https://magicmusicvisuals.com/) - Fully-customizable and highly responsive visuals for live and recorded audio & MIDI.
+
+---
+
+## 10. Contributing & License
 
 ### Contributing
 Contributions are welcome! Submit a pull request or open an issue to help improve and expand this list.
