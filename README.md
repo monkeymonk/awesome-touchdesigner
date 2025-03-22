@@ -81,6 +81,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 ### YouTube Channels
 - [TouchDesigner Official](https://www.youtube.com/@TouchDesignerOfficial)
 - [Interactive & Immersive HQ](https://www.youtube.com/@TheInteractiveImmersiveHQ)
+- [Reflekkt](https://www.youtube.com/@reflekkt_net)
 - [exsstas](https://www.youtube.com/@exsstas)
 - [DeanCheesman](https://www.youtube.com/@DeanCheesman)
 - [Acrylicode](https://www.youtube.com/@acrylicode)
