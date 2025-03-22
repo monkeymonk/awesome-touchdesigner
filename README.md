@@ -77,6 +77,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Simon Alexander Adams's Tutorials](https://www.simonaa.media/tutorials-articles)
 - [Working with Midi](https://www.youtube.com/watch?v=XLeghJmFBh0)
 - [3D Laser scanning dissipation](https://www.youtube.com/watch?v=Nqg8T4FtbRE)
+- [Mouse Attracted Particles](https://www.youtube.com/watch?v=0Obt8aL8G10)
 
 ### YouTube Channels
 - [TouchDesigner Official](https://www.youtube.com/@TouchDesignerOfficial)
