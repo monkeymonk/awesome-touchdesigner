@@ -152,6 +152,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [TDComponents](https://github.com/dylanroscover/TDComponents) - A whimsical collection of everyday TouchDesigner components
 - [tektshared](https://github.com/t3kt/tektshared) - Shared TouchDesigner components
 - [TD Voronoi](https://github.com/yeataro/TD_Voronoi) - JFA Voronoi Video Filter in TouchDesigner
+- [TDDepthAnything](https://github.com/olegchomp/TDDepthAnything) - TouchDesigner implementation for Depth Anything and TensorRT monocular depth estimation.
 
 ### Assets & Marketplaces
 - [All TD](https://alltd.org/) — Comprehensive library of community-shared assets.
