@@ -88,6 +88,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Acrylicode](https://www.youtube.com/@acrylicode)
 - [Matthew Ragan](https://www.youtube.com/@raganmd)
 - [Luchen Xi - Alexxi](https://www.youtube.com/@Alexxi-generativeartist)
+- [Lake Heckaman](https://www.youtube.com/@water__shed/playlists)
 
 ### Playlists & Courses
 - [Official Tutorials Playlist](https://www.youtube.com/playlist?list=PLzmoq9o8x48F3QEy2VGrakgP2p8gP4pqa)
