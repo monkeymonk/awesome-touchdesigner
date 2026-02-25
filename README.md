@@ -78,6 +78,7 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Working with Midi](https://www.youtube.com/watch?v=XLeghJmFBh0)
 - [3D Laser scanning dissipation](https://www.youtube.com/watch?v=Nqg8T4FtbRE)
 - [Mouse Attracted Particles](https://www.youtube.com/watch?v=0Obt8aL8G10)
+- [Learn TouchDesigner in 1 Hour (TouchDesigner for Beginners)](https://www.youtube.com/watch?v=gQdmocb-JBQ)
 
 ### YouTube Channels
 - [TouchDesigner Official](https://www.youtube.com/@TouchDesignerOfficial)
@@ -138,7 +139,6 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [TouchEngine-UE](https://github.com/TouchDesigner/TouchEngine-UE) - The TouchEngine-UE plugin allows UE developers to load TouchDesigner components within UE while relying on the TouchEngine API.
 - [Style Transfer](https://github.com/exsstas/StyleTransfer-in-TD) - TensorFlow implementation of Neural Style Transfer in TouchDesigner
 - [TDDiffusionAPI](https://github.com/olegchomp/TDDiffusionAPI) - TouchDesigner interface for AUTOMATIC1111
-- [SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg) - SOP to SVG pipeline
 - [FunctionStore Tools](https://github.com/function-store/FunctionStore_tools) - TouchDesigner workflow tools and UX improvements and more
 - [Luminosity](https://github.com/IntentDev/Luminosity) - Front-end for TouchDesigner aimed at providing operators with an efficient interface to perform, control, and distribute realtime media while retaining the open-ended programmability of TouchDesigner.
 - [TD Completes Me](https://github.com/picturesbyrobots/td-completes-me) - A Simple Auto Completion Engine for Touch Designer
