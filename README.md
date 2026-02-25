@@ -90,6 +90,9 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [Matthew Ragan](https://www.youtube.com/@raganmd)
 - [Luchen Xi - Alexxi](https://www.youtube.com/@Alexxi-generativeartist)
 - [Lake Heckaman](https://www.youtube.com/@water__shed/playlists)
+- [bileam tschepe (elekktronaut)](https://www.youtube.com/@elekktronaut)
+- [PPPANIK](https://www.youtube.com/@pppanik)
+- [DotSimulate](https://www.patreon.com/dotsimulate)
 
 ### Playlists & Courses
 - [Official Tutorials Playlist](https://www.youtube.com/playlist?list=PLzmoq9o8x48F3QEy2VGrakgP2p8gP4pqa)
@@ -100,6 +103,8 @@ TouchDesigner is a powerful visual development platform for real-time interactiv
 - [The 100 Series: TouchDesigner Fundamentals](https://learn.derivative.ca/courses/100-fundamentals/)
 - [A Deep Dive into the Core Knowledge of TouchDesigner](https://www.udemy.com/course/gem-seed_touchdesigner-course-continuous-course-updates/) *(paid)*
 - [Learning Touchdesigner](https://bookstack.hku.nl/books/touchdesigner/page/learning-touchdesigner)
+- [The NODE Institute](https://thenodeinstitute.org/) — Structured TouchDesigner courses with certification program.
+- [Gray Area TD Intensive](https://grayarea.org/) — 12-week TouchDesigner course culminating in a public exhibition.
 
 ## Cheat Sheets & Guides
 - [Common Operations Cheat Sheet](https://matthewragan.com/teaching-resources/touchdesigner/touchdesigner-common-operations-cheat-sheet/)
@@ -153,6 +158,11 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [tektshared](https://github.com/t3kt/tektshared) - Shared TouchDesigner components
 - [TD Voronoi](https://github.com/yeataro/TD_Voronoi) - JFA Voronoi Video Filter in TouchDesigner
 - [TDDepthAnything](https://github.com/olegchomp/TDDepthAnything) - TouchDesigner implementation for Depth Anything and TensorRT monocular depth estimation.
+- [StreamDiffusionTD](https://dotsimulate.com/docs/streamdiffusiontd) — Real-time AI image generation using StreamDiffusion pipeline with SDXL and TensorRT support.
+- [Terrain Tools](https://github.com/CraftKontrol/Terrain-Tools-for-Touchdesigner) — Game-engine-style environment creation with terrain shaders, volumetric fog, and boids system.
+- [TouchPy](https://github.com/IntentDev/touchpy) — High-performance Python toolset with Vulkan/CUDA GPU-to-GPU zero-copy data transfers for ML pipelines.
+- [TDYolo](https://github.com/patrickhartono/TDYolo) — YOLOv11 object detection with GPU acceleration on Windows (CUDA) and macOS (Metal).
+- [TDNeuron](https://github.com/tdneuron/TDNeuron) — Native deep learning framework built entirely in GLSL shaders within TouchDesigner.
 
 ### Assets & Marketplaces
 - [All TD](https://alltd.org/) — Comprehensive library of community-shared assets.
@@ -249,6 +259,8 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [Torin Blankensmith](https://www.torinblankensmith.com/)
 - [Glazov AV](https://www.instagram.com/glazov_av)
 - [Luchen Xi - Alexxi](https://www.instagram.com/luchen_xi/)
+- [NONOTAK](https://www.nonotak.com/) — Immersive light and sound installations.
+- [TUNDRA](https://wearetundra.org/) — New media art collective working with A/V performances, light, and robotic art.
 
 ---
 
@@ -276,6 +288,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [aNa](https://gitlab.com/metagrowing/ana) - A live coding system for visuals.
 - [GoVJ](https://govjapp.com/) - Allows you to run your live visual mix, straight from your iPhone or iPad.
 - [Magic](https://magicmusicvisuals.com/) - Fully-customizable and highly responsive visuals for live and recorded audio & MIDI.
+- [Notch](https://www.notch.one/) — Real-time 3D motion graphics and VFX for live events and broadcast.
 
 ---
 
