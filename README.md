@@ -163,6 +163,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [TouchPy](https://github.com/IntentDev/touchpy) — High-performance Python toolset with Vulkan/CUDA GPU-to-GPU zero-copy data transfers for ML pipelines.
 - [TDYolo](https://github.com/patrickhartono/TDYolo) — YOLOv11 object detection with GPU acceleration on Windows (CUDA) and macOS (Metal).
 - [TDNeuron](https://github.com/tdneuron/TDNeuron) — Native deep learning framework built entirely in GLSL shaders within TouchDesigner.
+- [Apple Frameworks for TouchDesigner](https://github.com/sygnalinc/Apple-Frameworks-for-TouchDesigner) — 59 native macOS operators wrapping Apple's on-device frameworks: Vision pose/face/hand tracking, Core ML, Create ML, Speech, Foundation Models and MLX. Signed and notarized builds, no Python or network required.
 
 ### Assets & Marketplaces
 - [All TD](https://alltd.org/) — Comprehensive library of community-shared assets.
