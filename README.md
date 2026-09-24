@@ -163,6 +163,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [TouchPy](https://github.com/IntentDev/touchpy) — High-performance Python toolset with Vulkan/CUDA GPU-to-GPU zero-copy data transfers for ML pipelines.
 - [TDYolo](https://github.com/patrickhartono/TDYolo) — YOLOv11 object detection with GPU acceleration on Windows (CUDA) and macOS (Metal).
 - [TDNeuron](https://github.com/tdneuron/TDNeuron) — Native deep learning framework built entirely in GLSL shaders within TouchDesigner.
+- [td-atlas](https://github.com/grigabyte/td-atlas) — Lets AI agents build, inspect and debug TouchDesigner projects over MCP: exact operator and parameter names from your own install, live edits with one-step undo, health checks for silent failures, and an offline .toe/.tox reader.
 
 ### Assets & Marketplaces
 - [All TD](https://alltd.org/) — Comprehensive library of community-shared assets.
