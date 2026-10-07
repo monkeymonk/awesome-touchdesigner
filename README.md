@@ -163,6 +163,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [TouchPy](https://github.com/IntentDev/touchpy) — High-performance Python toolset with Vulkan/CUDA GPU-to-GPU zero-copy data transfers for ML pipelines.
 - [TDYolo](https://github.com/patrickhartono/TDYolo) — YOLOv11 object detection with GPU acceleration on Windows (CUDA) and macOS (Metal).
 - [TDNeuron](https://github.com/tdneuron/TDNeuron) — Native deep learning framework built entirely in GLSL shaders within TouchDesigner.
+- [OSCAR](https://github.com/trafalmejo/OSCAR) — Open-source editor for phone and tablet control interfaces that send OSC to an OSC In CHOP; includes a TouchDesigner Parameter Rack template and example .tox ([guide](https://www.createwithoscar.site/getting-started/touchdesigner)).
 
 ### Assets & Marketplaces
 - [All TD](https://alltd.org/) — Comprehensive library of community-shared assets.
