@@ -289,6 +289,7 @@ To help you extend and customize TouchDesigner, this section combines plugins, t
 - [GoVJ](https://govjapp.com/) - Allows you to run your live visual mix, straight from your iPhone or iPad.
 - [Magic](https://magicmusicvisuals.com/) - Fully-customizable and highly responsive visuals for live and recorded audio & MIDI.
 - [Notch](https://www.notch.one/) — Real-time 3D motion graphics and VFX for live events and broadcast.
+- [Vizz.fm](https://vizz.fm/) - Free real-time music visualizer in the browser, reacts to any tab, file or mic input.
 
 ---
 
